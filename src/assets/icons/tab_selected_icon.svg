@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>10ED0610-A118-4FFE-A7B3-AF053428AD7C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M10,0 C15.5225,0 20,4.4775 20,10 C20,15.5225 15.5225,20 10,20 C4.47625,20 0,15.5225 0,10 C0,4.4775 4.47625,0 10,0 Z M14.387875,6.906625 C13.899125,6.417875 13.107875,6.417875 12.620375,6.906625 L12.620375,6.906625 L8.415375,11.111625 L7.379125,10.075375 C6.891625,9.587875 6.100375,9.587875 5.611625,10.075375 C5.124125,10.564125 5.124125,11.355375 5.611625,11.844125 L5.611625,11.844125 L7.531625,13.762875 C8.019125,14.251625 8.810375,14.251625 9.299125,13.762875 L9.299125,13.762875 L14.387875,8.674125 C14.876625,8.185375 14.876625,7.394125 14.387875,6.906625 Z" id="path-1"></path>
+    </defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Progress-tabs" transform="translate(-286.000000, -257.000000)">
+            <g id="Group-5" transform="translate(262.000000, 235.000000)">
+                <g id="Icon" transform="translate(24.000000, 22.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="5" y="5" width="10" height="11"></rect>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Positive-Icon" fill="#5C6BDD" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
